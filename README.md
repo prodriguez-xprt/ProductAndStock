@@ -70,6 +70,7 @@ This was tested in **Postman**.
 To deploy this project run
 
 ```bash
+  npm install
   npm start
 ```
 
