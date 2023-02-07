@@ -3,7 +3,7 @@
 
 This backend application is created to allow the management of product stock. We store products and all the transactions, differentiating if they are from selling or re-stocking.
 
-Next, yo uare going to see how you can execute all the requests:
+Next, you are going to see how you can execute all the requests:
 
 
 
