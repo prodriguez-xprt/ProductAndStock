@@ -64,3 +64,12 @@ This was tested in **Postman**.
 
 - [@pedroaro](https://www.github.com/pedroaro)
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm start
+```
+
